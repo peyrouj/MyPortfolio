@@ -17,12 +17,10 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    position: relative;
     background-image: url(images/background-3.png);
+    background-size: 20%;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 20%;
-    overflow: hidden;
 }
 
 .container{
